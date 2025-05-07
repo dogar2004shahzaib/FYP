@@ -74,7 +74,7 @@ const Home = () => {
       <footer>
         <h4>
           Built with 💛 &nbsp; by &nbsp;
-          <a>Code Sync</a>
+          <a>SHAHZAIB ALI DOGAR</a>
         </h4>
       </footer>
     </div>

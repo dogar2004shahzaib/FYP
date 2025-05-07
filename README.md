@@ -8,4 +8,5 @@
  # then start a local sever using command
 
   # npm start
+  # then npm start and it will listening to port 3000 and open them
 
